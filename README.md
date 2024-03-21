@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gabriellivcapato@gmail.com**
 
-- ⚡ Fun fact **I love to create mobile apps :D**
+- ⚡ Fun fact **I love and hate React Native :D**
 
 - 🌐 Open to work !
 
