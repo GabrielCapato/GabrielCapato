@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **I love and hate React Native :D**
 
+- 3️⃣ Year working with **React Native**
+
 - 🌐 Open to work !
 
 <h3 align="left">Connect with me:</h3>
